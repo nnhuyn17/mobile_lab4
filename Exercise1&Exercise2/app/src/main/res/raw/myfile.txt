@@ -1,0 +1,4 @@
+Hello everyone
+My name is Nguyen Ngoc Huyen. I am a senior student at University Information Technology which located in Thu Duc Ward.
+I am joining a course Mobile Development and this is one of the exercise I must do. I am writing this text to create file .txt for importing in my folder drawable. That is an example !
+Thank you so much.
